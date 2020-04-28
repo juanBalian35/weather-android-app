@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ClimaApp</string>
+    <string name="title_forecast">Pronóstico</string>
+    <string name="title_map">Mapa</string>
+
+    <string name="contentDescription_weather_image">Imagen descriptiva del tiempo actual</string>
+    <string name="label_feelsLike">Sensación</string>
+    <string name="label_humidity">Humedad</string>
+    <string name="label_uvIndex">Índice UV</string>
+    <string name="label_wind">Viento</string>
+    <string name="label_noLocation">Para seguir, selecciona un punto en el mapa o activa la ubicación.</string>
+    <string name="contentDescription_map">Mapa</string>
+    <string name="label_map">Ir a mapa</string>
+    <string name="contentDescription_location">Ubicacion</string>
+    <string name="label_location">Activar ubicación</string>
+    <string name="label_or">o</string>
+    <string name="label_mapComment">Mantener pulsado para ver el tiempo en ese punto</string>
+
+    <string name="degreeSymbol" translatable="false">°</string>
+    <string name="celsiusDegrees">°C</string>
+    <string name="kilometersPerHour">km/h</string>
+    <string name="percentage" translatable="false">%</string>
+
+    <string name="open_weather_map_app_id" templateMergeStrategy="preserve" translatable="false">27b0c0cc735149a40b2ab45e6bc2d309</string>
+    <string name="open_weather_map_unit" templateMergeStrategy="preserve" translatable="false">metric</string>
+    <string name="open_weather_map_language" templateMergeStrategy="preserve">es</string>
+
+    <string name="humidity_dry"> Seco </string>
+    <string name="humidity_normal"> Normal </string>
+    <string name="humidity_moist"> Húmedo </string>
+
+    <string name="feels_like_hot"> Caliente </string>
+    <string name="feels_like_warm"> Cálido  </string>
+    <string name="feels_like_cool"> Frío </string>
+    <string name="feels_like_cold"> Muy frío </string>
+    <string name="feels_like_freezing"> Congelante </string>
+
+    <string name="wind_speed_low"> Bajo </string>
+    <string name="wind_speed_calm"> Calmo </string>
+    <string name="wind_speed_windy"> Ventoso </string>
+    <string name="wind_speed_extreme"> Extremo </string>
+
+    <string name="uv_low"> Bajo </string>
+    <string name="uv_moderate"> Moderado </string>
+    <string name="uv_high"> Alto </string>
+    <string name="uv_very_high"> Muy alto </string>
+    <string name="uv_extreme"> Extremo </string>
+</resources>
